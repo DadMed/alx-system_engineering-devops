@@ -1,34 +1,25 @@
-# Shell Loops, Conditions,
-![](https://phoenixnap.com/kb/wp-content/uploads/2021/12/individual.sh-for-loop-script.png)
+# Loops, conditions and parsing
+-------
+Here, in this __ALX project__ the key learnings include:
+* How to create __SSH keys__(both `public` and `private` SSH keys).
+* How `Shellcheck` works as a tool.
+* The advantages of using __#!/usr/bin/env bash__  over __#!/bin/bash__.
+* How to use `while`, `until` and `for` loops.
+* How to use `if`, `else`, `elif` and `case` condition statements.
+* How to use the `cut` command.
+* What are __files__ and other __comparison operators__ , and how to use them.
 
-## Use this command to generate RSA key `ssh-keygen -t rsa`
+## Project Requirements :briefcase:
+* All files will be interpreted on __Ubuntu 20.04 LTS__.
+* All files should end with a new line.
+* All Bash script files must be executable.
+* All Bash scripts must pass `Shellcheck` (__version 0.7.0__) without any error.
+* The first line of all  Bash scripts should be exactly __#!/usr/bin/env bash__.
+* The second line of all Bash scripts should be a comment explaining what the scripts are doing.
 
-## Learning objectives
+> All comments, feedbacks and suggestions are highly welcome. Kindly take a look at my
+codes to get an insight. Scroll up :arrow_up:, please.
 
-- How to create SSH keys
-- What is the advantage of using `#!/usr/bin/env` bash over `#!/bin/bash`
-- How to use `while`, `until` and `for` loops
-- How to use `if`, `else`, `elif` and case condition statements
-- How to use the `cut` command
-- What are files and other comparison operators, and how to use them
-
-## Requirements
-
-- Allowed editors: `vi`, `vim`, `emacs`
-- All your files will be interpreted on `Ubuntu 20.04 LTS`
-- All your files should end with a new line
-- A README.md file, at the root of the folder of the project, is mandatory
-- All your Bash script files must be executable
-- You are not allowed to use `awk`
-- Your Bash script must pass `Shellcheck` (version 0.7.0) without any error
-- The first line of all your Bash scripts should be exactly `#!/usr/bin/env bash`
-- The second line of all your Bash scripts should be a comment explaining what the script doing
-
-## Concepts
-
-- `env`
-- `cut`
-- `for`
-- `while`
-- `until`
-- `if`
+##  Author :black_nib:
+*  __Oyindamola Ibis__ <[HBIbidunni](https://github.com/HBIbidunni)>
+-------
